@@ -5,3 +5,5 @@ conda activate test
 pip install requirements.txt
 
 ## for dvc
+git init
+dvc init 
